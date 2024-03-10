@@ -1,0 +1,3 @@
+E:\POLI\AN2\SEM1\POO\POO-TEMA-2023-CHECKER\src\test\java\CheckerUtils.kt
+E:\POLI\AN2\SEM1\POO\POO-TEMA-2023-CHECKER\src\test\java\JsonDataLoadTests.kt
+E:\POLI\AN2\SEM1\POO\POO-TEMA-2023-CHECKER\src\test\java\DesignPatternTests.kt
